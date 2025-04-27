@@ -86,7 +86,7 @@ Due to GitHub file size limits, download the cleaned dataset from here:
 
 ## 💻 Team
 
-**Team Name**: **Husky Hackers** 🚀
+**Team Name**: **Husky Hackers** 
 
 **Team Members**:
 - Akshith Saravanan
