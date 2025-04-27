@@ -55,7 +55,7 @@ Due to GitHub file size limits, download the cleaned dataset from here:
 - **Model Building**:
   - Tried **Linear Regression** and **Polynomial Regression** — but achieved low accuracy
   - Final Model:  
-    ✅ **CatBoostRegressor** (1200 iterations, depth=10, learning_rate=0.03)
+    **CatBoostRegressor** (1200 iterations, depth=10, learning_rate=0.03)
 
 - **Train/Test Split**:
   - 80% data for training
